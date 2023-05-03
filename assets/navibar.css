@@ -96,20 +96,13 @@ header a {
   background-color: #fff;
 }
 
-.services {
-  /* margin-top:5%; */
-  text-align: center;
-  padding-left: 300px;
-  padding-right: 300px;
-  color: #01477df1;
-  font-size:  1.5rem;
 
-}
 
-.abaout{
-  margin-top:15%;
-  text-align: center;
-  padding-left: 300px;
-  padding-right: 300px;
+
+
+.logo img{
+  margin-top: -10px;
+  height: 20%;
+  width: 20%;
 }
 
